@@ -1,4 +1,4 @@
-// Merge Sort
+// Merge Sort(divide and conquer algorithm)
 // 1. Sort the left half of the array(n > 1)
 // 2. Sort the right half of the array(n > 1)
 // 3. Merge the two halves together
